@@ -1,0 +1,13 @@
+{
+  "name": "educore-spark-x-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EDUCORE SPARK-X Next-Gen Academic Intelligence Platform",
+  "scripts": {
+    "dev": "npm --prefix educore_app run dev",
+    "build": "npm --prefix educore_app run build",
+    "start": "npm --prefix educore_app run start",
+    "lint": "npm --prefix educore_app run lint",
+    "test": "npm --prefix educore_app run test"
+  }
+}
